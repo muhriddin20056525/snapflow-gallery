@@ -1,4 +1,4 @@
-# Masonry Image Gallery
+# SnapFlow Gallery
 
 Bu loyiha **SnapFlow Gallery** yordamida yaratilgan **Responsive Image Gallery** hisoblanadi. Rasmlar turli o‘lchamlarda bo‘lishiga qaramay, tartibli va chiroyli joylashadi.
 
